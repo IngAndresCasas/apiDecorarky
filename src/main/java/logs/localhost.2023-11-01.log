@@ -1,0 +1,10 @@
+01-Nov-2023 21:51:55.389 INFORMACIÓN [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+01-Nov-2023 21:51:57.268 INFORMACIÓN [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+01-Nov-2023 21:52:07.099 INFORMACIÓN [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-Nov-2023 21:58:38.596 INFORMACIÓN [Thread-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+01-Nov-2023 21:58:38.597 INFORMACIÓN [Thread-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+01-Nov-2023 21:58:43.669 INFORMACIÓN [main] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+01-Nov-2023 21:58:45.598 INFORMACIÓN [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+01-Nov-2023 21:58:56.513 INFORMACIÓN [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+01-Nov-2023 22:00:17.819 INFORMACIÓN [Thread-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+01-Nov-2023 22:00:17.820 INFORMACIÓN [Thread-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
